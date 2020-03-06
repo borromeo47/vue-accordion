@@ -1,0 +1,21 @@
+{
+  "name": "vue-accordion",
+  "version": "0.0.1",
+  "description": "Accordion component built in Vue",
+  "main": "dist/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "accessibility",
+    "a11y",
+    "accordion",
+    "component"
+  ],
+  "author": "Borromeo Dev",
+  "license": "MIT"
+}
