@@ -1,7 +1,7 @@
 {
-  "name": "vue-accordion",
+  "name": "vue-accessible-accordion",
   "version": "0.0.1",
-  "description": "Accordion component built in Vue",
+  "description": "Accessible accordion component built in Vue",
   "main": "dist/index.js",
   "directories": {
     "doc": "docs"
